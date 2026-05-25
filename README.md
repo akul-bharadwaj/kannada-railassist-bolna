@@ -63,7 +63,7 @@ Bolna speaks response to user
 
 ## Demo Recording with [Bolna AI Platform](https://platform.bolna.ai/)
 
-<video src="https://youtu.be/A_COM-ac1lc" controls width="800"></video>
+<video src="/Bolna AI Platform Recording.mp4" controls width="800"></video>
 
 
 ## Key Files
