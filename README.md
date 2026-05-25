@@ -1,6 +1,6 @@
 # Kannada RailAssist
 
-Kannada RailAssist is a FastAPI backend demo for a Kannada voice-agent train availability flow using Bolna AI. It accepts train search requests from a Bolna voice agent, normalizes common Karnataka city and station names, and returns short, voice-friendly responses that can be spoken directly by the agent.
+Kannada RailAssist is a FastAPI backend demo for a Kannada voice-agent train availability flow using [Bolna AI](https://www.bolna.ai/). It accepts train search requests from a Bolna voice agent, normalizes common Karnataka city and station names, and returns short, voice-friendly responses that can be spoken directly by the agent.
 
 This project is designed as demo to showcase:
 
